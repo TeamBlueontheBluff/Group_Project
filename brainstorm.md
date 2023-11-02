@@ -2,25 +2,26 @@ Mobile App Dev - App Brainstorming Example
 ===
 
 ## Favorite Existing Apps - List
-1. Instagram
-1. Wag
-1. Rover
-1. Coinbase
-1. Waze
-1. Notes
-1. Messages
-1. Facebook Messenger
-1. Craigslist Client
-1. Yelp
+1. Words with Friends
+1. Scrabble GO
+1. Word Cookies
+1. Boggle with Friends
+1. AlphaBettySage
+1. CodyCross
+1. Wordament
+1. Bonza Word Puzzle
+1. Ruzzle
+1. Typeshift
 
-## Favorite Existing Apps - Categorize and Evaluate
-### Instagram
-   - **Category:** Photo & Video / Social 
-   - **Mobile:** Website is view only, uses camera, mobile first experience.
-   - **Story:** Allows users to share their lives in pictures and enhance their content with filters
-   - **Market:** Anyone that takes pictures could enjoy this app. Ability to follow and hashtag based on interests and categories allows users with unique interests to engage with relevant content.
-   - **Habit:** Users can post throughout the day many times. Features like "Stories" encourage more candid posting as well. Users can explore endless pictures in any category imaginable whenever they want. Very habbit forming!
-   - **Scope:** Instagram started out extremely narrow focused, just posting pics and viewing feeds. Has expanded to a somewhat larger scope including "Instagram Stories" (a la SnapChat) and messenger features. 
+## Favorite Existing Word Game Apps - Categorize and Evaluate
+### Words with Friends
+ - Category: Word / Puzzle / Social
+ - Mobile: Available as a mobile app, primarily designed for smartphones and tablets.
+ - Story: Offers an engaging word puzzle experience, allowing users to challenge friends and strangers to word games, similar to the classic game Scrabble.
+ - Market: Word game enthusiasts, vocabulary aficionados, and those looking for social word challenges. Players can connect with friends and opponents, making it appealing to a broad audience.
+ - Habit: Users can play at their own pace, taking turns when convenient. It encourages consistent gameplay as friends or opponents make moves, drawing players back regularly. It's addictive in a friendly and 
+   intellectually stimulating way.
+ - Scope: Words with Friends began as a straightforward word game but has evolved to include various modes, tournaments, and social features, enhancing the overall word gaming experience.
 ### Rover
    - **Category:**...
 
