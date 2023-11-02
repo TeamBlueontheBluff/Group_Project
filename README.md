@@ -30,13 +30,12 @@ This game will give you a scrambled word and you will have 5 chances to guess th
 
 1. Functioning scramble word game that gives different words
 2. Scores should be tallied after every game ends. Those scores should then be added to a leaderboard.
-3. Once the 5 chances to guess the word are up, player cannot make any more guesses
+3. Once the 5 chances to guess the word are up, the player cannot make any more guesses
 
 ### 2. Screen Archetypes
 
 - Home Page
-  - [list associated required story h
-  - ...
+  - This page has all the buttons available to click on in the app.
 - About Page
   - Will tell you how to play the game
 - Game Page
