@@ -10,17 +10,17 @@
 
 ### Description
 
-[Description of your app]
+This game will give you a scrambled word and you will have 5 chances to guess the word. Once your chances are up you will receive a score whether you guessed the word or not and will then see a leaderboard of your scores.
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Word/Puzzle
+- **Mobile:** Available as a mobile app, designed for smartphones and tablets, offering an optimized mobile experience.
+- **Story:** Offers a classic and engaging word puzzle experience based on the beloved Scrabble game. Players will have the chance to compare their scores to the leaderboard after the game ends.
+- **Market:** Word game enthusiasts, puzzle solvers
+- **Habit:** Users can play at their own pace, taking turns when convenient. It encourages consistent gameplay as friends or opponents.
+- **Scope:** Guess the Scramble is a fun new innovative game designed to challenge each other while also testing their knowledge on various words.
 
 ## Product Spec
 
@@ -28,9 +28,9 @@
 
 **Required Features**
 
-1. [fill in your required user features here]
-2. ...
-3. ...
+1. Functioning scramble word game that gives different words
+2. Scores should be tallied after every game ends
+3. Once the 5 chances to guess the word are up, player cannot make any more guesses
 
 **Optional Features**
 
@@ -40,7 +40,7 @@
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
+- Home
   - [list associated required story here]
   - ...
 - [list second screen here]
