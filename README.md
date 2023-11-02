@@ -29,40 +29,29 @@ This game will give you a scrambled word and you will have 5 chances to guess th
 **Required Features**
 
 1. Functioning scramble word game that gives different words
-2. Scores should be tallied after every game ends
+2. Scores should be tallied after every game ends. Those scores should then be added to a leaderboard.
 3. Once the 5 chances to guess the word are up, player cannot make any more guesses
-
-**Optional Features**
-
-1. [fill in your optional user features here]
-2. ...
-3. ...
 
 ### 2. Screen Archetypes
 
-- Home
-  - [list associated required story here]
+- Home Page
+  - [list associated required story h
   - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- About Page
+  - Will tell you how to play the game
+- Game Page
+  - Here is where you play the game
+- Credit
+  - This page shows who all worked on the game
+- Leaderboard
+   - This page gives the top players scores
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
-
-**Flow Navigation** (Screen to Screen)
-
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
-- [list second screen here]
-  - [list screen navigation here]
-  - ...
+* Menu [ About, Game, Credit, Leaderboard]
+  * About [Instructions for how to play the game]
 
 ## Wireframes
 
