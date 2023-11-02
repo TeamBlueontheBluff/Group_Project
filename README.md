@@ -54,7 +54,7 @@ This game will give you a scrambled word and you will have 5 chances to guess th
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+(https://github.com/TeamBlueontheBluff/Group_Project/blob/main/WireFrames.pdf)
 
 <br>
 
