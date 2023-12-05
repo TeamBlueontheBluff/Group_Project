@@ -28,9 +28,10 @@ This game will give you a scrambled word and you will have 5 chances to guess th
 
 **Required Features**
 
-1. Functioning scramble word game that gives different words
-2. Scores should be tallied after every game ends. Those scores should then be added to a leaderboard.
-3. Once the 5 chances to guess the word are up, the player cannot make any more guesses
+1. [x]Functioning scramble word game that gives different words
+2. [x]Creating About and Credit pages
+4. Scores should be tallied after every game ends. Those scores should then be added to a leaderboard.
+5. Once the 5 chances to guess the word are up, the player cannot make any more guesses
 
 ### 2. Screen Archetypes
 
