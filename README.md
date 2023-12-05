@@ -28,10 +28,10 @@ This game will give you a scrambled word and you will have 5 chances to guess th
 
 **Required Features**
 
- [x]Functioning scramble word game that gives different words
- [x]Creating About and Credit pages
-4. Scores should be tallied after every game ends. Those scores should then be added to a leaderboard.
-5. Once the 5 chances to guess the word are up, the player cannot make any more guesses
+[x] Functioning scramble word game that gives different words
+[x] Creating About and Credit pages
+[x] Scores should be tallied after every game ends. Those scores should then be added to a leaderboard.
+[x] Once the 5 chances to guess the word are up, the player cannot make any more guesses
 
 ### 2. Screen Archetypes
 
@@ -80,7 +80,8 @@ List the issues you completed this sprint
 
 Milestone 3 - Build Sprint 2 (Unit 9)
 GitHub Project board
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] 
+![Project Screenshot 3](https://github.com/TeamBlueontheBluff/Group_Project/assets/42751000/a11dcb41-908e-434d-a898-22766274b1fc)
+![Project Screenshot 4](https://github.com/TeamBlueontheBluff/Group_Project/assets/42751000/c71e6855-f058-4901-84c9-283e623d4294)
 
 Completed user stories
 List the completed user stories from this unit
