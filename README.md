@@ -69,11 +69,14 @@ GitHub Project board
 [Add screenshot of your Project Board with three milestones visible in this section] 
 
 Issue cards
-[Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] 
-[Add screenshot of your Project Board with the issues that you're working on in the NEXT sprint. It should include issues for next unit with assigned owners.] 
+![Project Screenshot 1](https://github.com/TeamBlueontheBluff/Group_Project/assets/42751000/6e45a680-de12-4092-92e0-dd0f5339a869)
+
+![Project Screenshot 2](https://github.com/TeamBlueontheBluff/Group_Project/assets/42751000/020a1f9a-ef02-4f14-b719-d459a9b0f790)
+
 Issues worked on this sprint
 List the issues you completed this sprint
 (https://submissions.us-east-1.linodeobjects.com/and102/-iBb81Nt.gif)
+
 
 Milestone 3 - Build Sprint 2 (Unit 9)
 GitHub Project board
