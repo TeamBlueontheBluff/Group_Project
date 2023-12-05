@@ -28,8 +28,8 @@ This game will give you a scrambled word and you will have 5 chances to guess th
 
 **Required Features**
 
-1. [x]Functioning scramble word game that gives different words
-2. [x]Creating About and Credit pages
+ [x]Functioning scramble word game that gives different words
+ [x]Creating About and Credit pages
 4. Scores should be tallied after every game ends. Those scores should then be added to a leaderboard.
 5. Once the 5 chances to guess the word are up, the player cannot make any more guesses
 
@@ -64,3 +64,25 @@ This game will give you a scrambled word and you will have 5 chances to guess th
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
+Milestone 2 - Build Sprint 1 (Unit 8)
+GitHub Project board
+[Add screenshot of your Project Board with three milestones visible in this section] 
+
+Issue cards
+[Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] 
+[Add screenshot of your Project Board with the issues that you're working on in the NEXT sprint. It should include issues for next unit with assigned owners.] 
+Issues worked on this sprint
+List the issues you completed this sprint
+(https://submissions.us-east-1.linodeobjects.com/and102/-iBb81Nt.gif)
+
+Milestone 3 - Build Sprint 2 (Unit 9)
+GitHub Project board
+[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] 
+
+Completed user stories
+List the completed user stories from this unit
+List any pending user stories / any user stories you decided to cut from the original requirements
+[Add video/gif of your current application that shows build progress] 
+
+App Demo Video
+Embed the YouTube/Vimeo link of your Completed Demo Day prep video
