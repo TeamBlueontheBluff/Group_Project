@@ -89,4 +89,4 @@ List any pending user stories / any user stories you decided to cut from the ori
 [Add video/gif of your current application that shows build progress] 
 
 App Demo Video
-Embed the YouTube/Vimeo link of your Completed Demo Day prep video
+(https://vimeo.com/892033046?share=copy#t=0)https://vimeo.com/892033046?share=copy#t=0
